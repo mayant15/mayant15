@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🎓 Masters' student [@UBC-SPL](https://spl.cs.ubc.ca/index.html).
+
+🔭 Interested in Program Analysis, Testing, Programming Languages and Compilers.
+
+⚡ Dabbling in [Zig](https://ziglang.org/)
+
+📫 Sometimes I write about stuff on my [website](https://mayantm.com/).
+
 <!--
 **mayant15/mayant15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
