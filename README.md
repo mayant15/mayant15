@@ -2,7 +2,7 @@
 
 🎓 Masters' student [@UBC-SPL](https://spl.cs.ubc.ca/index.html).
 
-🔭 Interested in Program Analysis, Testing, Programming Languages and Compilers.
+🔭 Interested in Program Analysis, Compilers and Graphics.
 
 ⚡ Dabbling in [Zig](https://ziglang.org/)
 
