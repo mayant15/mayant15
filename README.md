@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🎓 Masters' student [@UBC-SPL](https://spl.cs.ubc.ca/index.html).
+🎓 PhD student [@UBC-SPL](https://spl.cs.ubc.ca/index.html).
 
-🔭 Interested in Program Analysis, Compilers and Graphics.
+🔭 Interested in Automated Testing, Program Analysis and Compilers.
 
 ⚡ Dabbling in [Zig](https://ziglang.org/)
 
